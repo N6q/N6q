@@ -1,57 +1,61 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/your-banner-image.png" alt="Banner" width="100%" />
+  <img src="https://i.imgur.com/q3s6S6H.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm N6q</h1>
-<h3 align="center">A Passionate Web Developer in the Making 🚀</h3>
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+N6q;Full+Stack+Developer+%F0%9F%92%BB;Lifelong+Learner+%F0%9F%93%96;Tech+Enthusiast+%F0%9F%94%A5" />
+</p>
 
 ---
 
 ## 🚀 About Me
-I'm a dedicated developer who loves building modern, responsive, and user-friendly web applications.  
-💡 Currently learning **React, Next.js, and backend APIs**.  
-🌱 Exploring **Data Structures & Algorithms**.  
-🤝 Open to collaborations on **Web Development** projects.  
-⚡ Fun fact: I debug with coffee ☕.
+💻 **Full Stack Developer** passionate about creating modern, responsive, and user-friendly applications.  
+🌱 Constantly exploring **new technologies** and improving my **Data Structures & Algorithms** skills.  
+⚡ Love blending **creativity with code** to build awesome projects.  
 
 ---
 
 ## 🛠 Technology Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb,mysql,cs,java,py,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N6q&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N6q&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N6q&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=N6q&show_icons=true&theme=tokyonight&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N6q&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
 
-## 📫 How to Reach Me:
-- 📧 Email: your.email@example.com
-- 💼 Portfolio: [your-portfolio-link](https://yourwebsite.com)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 💻 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N6q&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N6q&theme=tokyo-night" />
+</p>
+
+---
+
+## 💡 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=N6q&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
+</p>
 
 ---
 
