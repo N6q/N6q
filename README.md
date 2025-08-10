@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/q3s6S6H.png" alt="Banner" width="100%" />
+  <img src="https://www.pexels.com/photo/person-typing-on-laptop-5473892/" alt="Banner" width="100%" />
 </p>
 
 <!-- Typing SVG -->
