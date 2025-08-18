@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/N6q/N6q/blob/mainmainbg.jpg" alt="Banner" width="50%" hight="50%" />
+  <img src="https://github.com/N6q/N6q/blob/main/mainbg.jpg" alt="Banner" width="50%" hight="50%" />
 </p>
 
 <!-- Typing SVG -->
