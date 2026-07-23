@@ -57,6 +57,4 @@
   <img src="https://komarev.com/ghpvc/?username=N6q&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
 </p>
 
----
 
-⭐ From [N6q](https://github.com/N6q)
