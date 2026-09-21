@@ -165,7 +165,7 @@
 ## `$ watch snake`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/N6q/N6q/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="[https://raw.githubusercontent.com/N6q/N6q/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/N6q/N6q/output/github-contribution-grid-snake-dark.svg?v=1)" width="100%" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F75C7E,50:302b63,100:0f0c29&height=4&section=header" width="100%" />
