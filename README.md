@@ -1,6 +1,6 @@
 <!-- ╔═══════════════════════════ BANNER ═══════════════════════════╗ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/N6q/N6q/main/mainbg.jpg" alt="Samir — Full Stack Developer" width="46%" />
+  <img src="https://raw.githubusercontent.com/Samir-AlBulushi/Samir-AlBulushi/main/mainbg.jpg" alt="Samir — Full Stack Developer" width="46%" />
 </p>
 
 <!-- ╔═══════════════════════════ TYPING ═══════════════════════════╗ -->
@@ -12,8 +12,8 @@
 <table align="center">
 <tr>
 <td width="175" align="center">
-  <img src="https://github.com/N6q.png" width="135" /><br/>
-  <sub><b>@N6q</b></sub>
+  <img src="https://github.com/Samir-AlBulushi.png" width="135" /><br/>
+  <sub><b>@Samir-AlBulushi</b></sub>
 </td>
 <td>
 
@@ -206,7 +206,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:yaqeenkhamis@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-F75C7E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
